@@ -46,6 +46,9 @@ sum(is.na(iris))
 #  install.packages("skimr")
 # https://github.com/ropensci/skimr
 
+
+
+
 library(skimr)
 
 skim(iris) # Perform skim to display summary statistics
